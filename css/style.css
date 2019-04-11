@@ -48,7 +48,7 @@ a {
 }
 #latest_appeals .media img {
     width: 100px;
-    
+
 }
 
 #latest_appeals .media h3 {
@@ -102,4 +102,19 @@ h1, h2, h3{
     height: 350px;
     float: right;
 
+}
+
+.learn_more_container .row div {
+  text-align: left;
+  background-color: #f3f3f3;
+  border: #333333 1px solid;
+}
+
+/* .col-md-3 ml-1 {
+  border: 1px black solid;
+} */
+
+.learn_link {
+  color: #4da52b;
+  text-decoration: underline;
 }

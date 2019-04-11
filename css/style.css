@@ -1,4 +1,37 @@
 header {
+
+  background-color: #4da52b;
+  padding: 1em;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  padding: 1em;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 6em;
+}
+.active {
+  border-bottom: 1px solid #ffffff;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  margin-left: auto;
+  color: #ffffff;
+}
+
+li {
+  padding: .5em;
+}
+
+a {
+  color: #ffffff;
     background-color: #4da52b;
 }
 
@@ -68,4 +101,5 @@ h1, h2, h3{
 .image img{
     height: 350px;
     float: right;
+
 }

@@ -1,4 +1,5 @@
 header {
+
   background-color: #4da52b;
   padding: 1em;
   font-family: 'Roboto', sans-serif;
@@ -31,4 +32,74 @@ li {
 
 a {
   color: #ffffff;
+    background-color: #4da52b;
+}
+
+
+/* LATEST APPEALS */
+
+#latest_appeals h2 {
+    font-size: 18px;
+}
+
+#latest_appeals .media {
+    margin-bottom: 20px;
+    background: #eee;
+}
+#latest_appeals .media img {
+    width: 100px;
+    
+}
+
+#latest_appeals .media h3 {
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+
+
+#latest_appeals .media button {
+    color: #fff;
+}
+
+/* Container holding the image and the text */
+.image_container {
+    position: relative;
+}
+
+.image_container img {
+    -webkit-filter: brightness(70%);
+}
+
+/* Bottom right text */
+.text_block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.text_block h1 {
+    color: white;
+}
+
+h1, h2, h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+}
+#we-do .content{
+    margin-top: 100px;
+}
+#btn-we-do{
+    background-color: #4da52b;
+    padding: 7px 12px;
+    color: #fff;
+}
+.image img{
+    height: 350px;
+    float: right;
+
 }

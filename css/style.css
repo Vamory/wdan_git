@@ -1,3 +1,31 @@
 header {
     background-color: #4da52b;
 }
+
+
+/* LATEST APPEALS */
+
+#latest_appeals h2 {
+    font-size: 18px;
+}
+
+#latest_appeals .media {
+    margin-bottom: 20px;
+    background: #eee;
+}
+#latest_appeals .media img {
+    width: 100px;
+    
+}
+
+#latest_appeals .media h3 {
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+
+
+#latest_appeals .media button {
+    color: #fff;
+}
+

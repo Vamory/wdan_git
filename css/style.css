@@ -101,6 +101,56 @@ h1, h2, h3{
 .image img{
     height: 350px;
     float: right;
+}
+
+#footer {
+    background-color: #333333;
+    color: white;
+
+}
+
+.footer_sections ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer_sections h4{
+    color: #faaf40;
+}
+
+#footer-links li a{
+    color: white;
+    text-decoration: underline;
+}
+
+#make_a_donation{
+    color: white;
+    background-color: #4da52b;
+}
+
+#make_a_donation h4{
+    color: white;
+}
+
+#make_a_donation a {
+    background-color: #faaf40;
+    color: white;
+    width: 100%;
+    text-align: left;
+}
+
+#footer-legal li{
+    display:inline;
+}
+
+#footer-legal {
+    padding-left: 0;
+}
+
+#footer-legal li a {
+    color: white;
+    text-decoration: underline;
+}
 
 }
 

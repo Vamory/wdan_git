@@ -1,0 +1,10 @@
+.learn_more_container .row div {
+  text-align: left;
+  background-color: #f3f3f3;
+  border: #333333 1px solid;
+}
+
+.learn_link {
+  color: #4da52b;
+  text-decoration: underline;
+}

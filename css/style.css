@@ -2,6 +2,30 @@ header {
     background-color: #4da52b;
 }
 
+/* Container holding the image and the text */
+.image_container {
+    position: relative;
+}
+
+.image_container img {
+    -webkit-filter: brightness(70%);
+}
+
+/* Bottom right text */
+.text_block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.text_block h1 {
+    color: white;
+}
+
 h1, h2, h3{
     font-family: 'Montserrat', sans-serif;
     color: #333333;

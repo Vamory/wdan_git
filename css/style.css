@@ -110,6 +110,10 @@ h1, h2, h3{
   border: #333333 1px solid;
 }
 
+/* .col-md-3 ml-1 {
+  border: 1px black solid;
+} */
+
 .learn_link {
   color: #4da52b;
   text-decoration: underline;
